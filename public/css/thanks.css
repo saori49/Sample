@@ -1,0 +1,21 @@
+
+.thanks {
+  text-align: center;
+  margin-top: 300px;
+}
+
+.thanks__txt {
+  margin-bottom: 50px;
+}
+
+.btn {
+  margin-top: 40px;
+  padding: 10px 20px;
+  height: 40px;
+  font-weight: bold;
+  color: #ffffff;
+  background-color: black;
+  border: none;
+  border-radius: 5px;
+  text-decoration: none;
+}
